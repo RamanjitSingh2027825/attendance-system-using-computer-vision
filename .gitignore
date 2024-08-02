@@ -5,3 +5,5 @@ venv/
 
 # Lock Files
 poetry.lock
+
+encodings.p
