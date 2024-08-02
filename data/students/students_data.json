@@ -1,0 +1,42 @@
+{
+    "2027820": {
+        "student_name": "Diljit Singh",
+        "student_email": "diljit@abc_school.com",
+        "student_phone": "9876543210",
+        "class": "12th",
+        "section": "A",
+        "roll_no": "1",
+        "total_attendance": "0",
+        "last_login": "2021-09-10 10:00:00"
+    },
+    "2027821": {
+        "student_name": "Elon Musk",
+        "student_email": "elon@abc_school.com",
+        "student_phone": "9876543211",
+        "class": "12th",
+        "section": "A",
+        "roll_no": "2",
+        "total_attendance": "0",
+        "last_login": "2021-09-10 10:00:00"
+    },
+    "2027822": {
+        "student_name": "Satya Nadella",
+        "student_email": "satya@abc_school.com",
+        "student_phone": "9876543212",
+        "class": "12th",
+        "section": "A",
+        "roll_no": "3",
+        "total_attendance": "0",
+        "last_login": "2021-09-10 10:00:00"
+    },
+    "2027823": {
+        "student_name": "Ramanjit Singh",
+        "student_email": "raman@abc_school.com",
+        "student_phone": "9876543213",
+        "class": "12th",
+        "section": "A",
+        "roll_no": "4",
+        "total_attendance": "0",
+        "last_login": "2021-09-10 10:00:00"
+    }
+}
