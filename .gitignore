@@ -3,6 +3,8 @@ service.json
 .venv/
 venv/
 
+__pycache__/
+
 # Lock Files
 poetry.lock
 
